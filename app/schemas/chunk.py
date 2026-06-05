@@ -1,5 +1,5 @@
-from pydantic import BaseModel
-from typing import Optional, Dict, Any
+from typing import Any, Dict, Optional
+from pydantic import BaseModel, Field
 
 
 class ChunkRecord(BaseModel):
@@ -15,4 +15,13 @@ class ChunkRecord(BaseModel):
     jurisdiction: Optional[str] = None
     effective_date: Optional[str] = None
     vendor_name: Optional[str] = None
-    metadata: Dict[str, Any] = {}
+    metadata: Dict[str, Any] = Field(default_factory=dict)
+
+
+class IngestionResponse(BaseModel):
+    doc_id: str
+    document_type: str
+    chunk_count: int
+    processed_path: str
+    chunks_path: str
+    metadata_path: str
