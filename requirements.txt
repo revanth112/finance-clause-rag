@@ -1,0 +1,48 @@
+# ============================================================
+# Finance Clause RAG - Requirements
+# ============================================================
+
+# --- Core API & UI ---
+fastapi
+uvicorn[standard]
+streamlit
+requests
+
+# --- Config & Validation ---
+python-dotenv
+pydantic
+
+# --- Embeddings (BGE-M3) ---
+sentence-transformers
+torch
+transformers
+
+# --- Vector Search ---
+faiss-cpu
+numpy
+
+# --- LLM (Azure OpenAI) ---
+openai
+
+# --- Document Parsing (Part 2) ---
+pymupdf
+python-docx
+unstructured
+markdownify
+
+# --- Data ---
+pandas
+
+# --- LangGraph Agents (Part 4) ---
+langchain
+langchain-community
+langchain-core
+langgraph
+
+# --- Evaluation (Part 5) ---
+ragas
+mlflow
+
+# --- Testing ---
+pytest
+httpx
