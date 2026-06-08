@@ -1,0 +1,164 @@
+[
+  {
+    "chunk_id": "f8dfa3e0-ee2c-4e0a-bd73-5108bd078197",
+    "doc_id": "4333916a-3535-4bb0-b82c-1d141e000e8d",
+    "chunk_index": 0,
+    "text": "## Page 1",
+    "markdown_text": "## Page 1",
+    "section_title": "## Page 1",
+    "clause_type": null,
+    "page_number": null,
+    "document_type": "invoice",
+    "jurisdiction": null,
+    "effective_date": null,
+    "vendor_name": null,
+    "metadata": {
+      "section_title": "## Page 1",
+      "chunking_strategy": "markdown_section"
+    }
+  },
+  {
+    "chunk_id": "75d29018-ba3b-45bf-8966-a390db6cec76",
+    "doc_id": "4333916a-3535-4bb0-b82c-1d141e000e8d",
+    "chunk_index": 1,
+    "text": "SUNKU VENKATA REVANTH KUMAR\n\nBengaluru,India | revanthkumarsunku@gmail.com | linkedin.com/in/sunkurevanthkumar | +91-9849484197",
+    "markdown_text": "SUNKU VENKATA REVANTH KUMAR\n\nBengaluru,India | revanthkumarsunku@gmail.com | linkedin.com/in/sunkurevanthkumar | +91-9849484197",
+    "section_title": "SUNKU VENKATA REVANTH KUMAR",
+    "clause_type": null,
+    "page_number": null,
+    "document_type": "invoice",
+    "jurisdiction": "India",
+    "effective_date": null,
+    "vendor_name": null,
+    "metadata": {
+      "section_title": "SUNKU VENKATA REVANTH KUMAR",
+      "chunking_strategy": "markdown_section"
+    }
+  },
+  {
+    "chunk_id": "8d0b3bde-ed75-4ba3-8edc-58c35100b5f6",
+    "doc_id": "4333916a-3535-4bb0-b82c-1d141e000e8d",
+    "chunk_index": 2,
+    "text": "PROFESSIONAL SUMMARY\n\nData & AI Engineer with 3+ years building and shipping production-grade AI systems on AWS and Azure. Core focus on\nRAG, multi-agent orchestration, and scalable cloud-native pipelines. With equal weight on correctness, cost\nefficiency, and operational reliability. Reduced ~8k monthly support tickets, cut cloud infrastructure spend by ~40%, and\ncompressed procurement cycle times from 3-7days to <20 mins. Comfortable owning a system end-to-end: from RAG\npipeline design and LLM evaluation to Docker deployment, CI/CD, & CloudWatch observability.",
+    "markdown_text": "PROFESSIONAL SUMMARY\n\nData & AI Engineer with 3+ years building and shipping production-grade AI systems on AWS and Azure. Core focus on\nRAG, multi-agent orchestration, and scalable cloud-native pipelines. With equal weight on correctness, cost\nefficiency, and operational reliability. Reduced ~8k monthly support tickets, cut cloud infrastructure spend by ~40%, and\ncompressed procurement cycle times from 3-7days to <20 mins. Comfortable owning a system end-to-end: from RAG\npipeline design and LLM evaluation to Docker deployment, CI/CD, & CloudWatch observability.",
+    "section_title": "PROFESSIONAL SUMMARY",
+    "clause_type": "liability",
+    "page_number": null,
+    "document_type": "invoice",
+    "jurisdiction": null,
+    "effective_date": null,
+    "vendor_name": null,
+    "metadata": {
+      "section_title": "PROFESSIONAL SUMMARY",
+      "chunking_strategy": "markdown_section"
+    }
+  },
+  {
+    "chunk_id": "bc0e22c7-0214-48be-9e1c-8d512ae4ac3b",
+    "doc_id": "4333916a-3535-4bb0-b82c-1d141e000e8d",
+    "chunk_index": 3,
+    "text": "TECHNICAL SKILLS\n\nLanguages & Frameworks: Python, FastAPI, SQL, LangChain, LangGraph, CrewAI, Pydantic, Streamlit\nGenAI & LLMs: RAG, Multi-Agent Workflows, Prompt Engineering, LLM Evaluation, Hallucination Mitigation, Fine-Tuning, NLP,\nOpenAI GPT, Claude, Gemini, Hugging Face Transformers\nRetrieval & Vector Databases: FAISS, ChromaDB, Semantic Retrieval, Hybrid Search, Cross-Encoder Re-ranking, Metadata\nFiltering, Query Expansion, Context Compression, Embedding Models (OpenAI, BGE)\nCloud, MLOps & Infrastructure: AWS (Lambda, Step Functions, Glue, S3, EC2, API Gateway, EventBridge, CloudWatch), Azure\nAI Foundry, Azure Cognitive Services, MLflow, CI/CD Pipelines, Docker\nGovernance & LLMOps: RAGAS, Human-in-the-Loop (HITL), Guardrails, Auditability, Token Monitoring, Cost Optimization,\nException Handling, Compliance Monitoring, LLM Observability\nAutomation & Data Engineering:UiPath, ETL Pipelines, Workflow Automation, Queue Management, Web/Desktop Automation",
+    "markdown_text": "TECHNICAL SKILLS\n\nLanguages & Frameworks: Python, FastAPI, SQL, LangChain, LangGraph, CrewAI, Pydantic, Streamlit\nGenAI & LLMs: RAG, Multi-Agent Workflows, Prompt Engineering, LLM Evaluation, Hallucination Mitigation, Fine-Tuning, NLP,\nOpenAI GPT, Claude, Gemini, Hugging Face Transformers\nRetrieval & Vector Databases: FAISS, ChromaDB, Semantic Retrieval, Hybrid Search, Cross-Encoder Re-ranking, Metadata\nFiltering, Query Expansion, Context Compression, Embedding Models (OpenAI, BGE)\nCloud, MLOps & Infrastructure: AWS (Lambda, Step Functions, Glue, S3, EC2, API Gateway, EventBridge, CloudWatch), Azure\nAI Foundry, Azure Cognitive Services, MLflow, CI/CD Pipelines, Docker\nGovernance & LLMOps: RAGAS, Human-in-the-Loop (HITL), Guardrails, Auditability, Token Monitoring, Cost Optimization,\nException Handling, Compliance Monitoring, LLM Observability\nAutomation & Data Engineering:UiPath, ETL Pipelines, Workflow Automation, Queue Management, Web/Desktop Automation",
+    "section_title": "TECHNICAL SKILLS",
+    "clause_type": null,
+    "page_number": null,
+    "document_type": "invoice",
+    "jurisdiction": null,
+    "effective_date": null,
+    "vendor_name": null,
+    "metadata": {
+      "section_title": "TECHNICAL SKILLS",
+      "chunking_strategy": "markdown_section"
+    }
+  },
+  {
+    "chunk_id": "a9651ea0-bbdf-4f0f-9e45-da7f5cc8eda1",
+    "doc_id": "4333916a-3535-4bb0-b82c-1d141e000e8d",
+    "chunk_index": 4,
+    "text": "WORK EXPERIENCE\n\nData & AI Engineer | Genpact (Client: GE Vernova) \u200b\nJul 2024 \u2013 Present | Bengaluru\n\u25cf\u200b\nBuilt a LangGraph Agentic Orchestration pipeline(Extraction \u2192 Matching \u2192 Exception Handling) to automate\ninvoice reconciliation against live vendor contracts and compliance documents\n\u25cf\u200b\nEngineered a hybrid RAG stack using FAISS vector store with dense-sparse search and cross-encoder re-ranking\nacross 10,000+ vendor contracts. Choose FAISS for deterministic latency SLAs and cost efficiency (40% savings);\nimproved retrieval precision from 65% \u2192 92% MRR without hallucinated references.\n\u25cf\u200b\nBuilt a 3-layer hybrid validator (Pydantic \u2192 deterministic rules \u2192 LLM) at layer 2 for ~65% of invoices to avoid\nunnecessary LLM calls.\n\u25cf\u200b\nImplemented configurable exception-routing state machine (Approved/Warning/Critical/HITL) with confidence\nscoring, achieving 85% STP. Eliminated 8K+ monthly support tickets..\n\u25cf\u200b\nDeployed RAGAS faithfulness + relevance eval with token/latency dashboards compressed approval cycles\nfrom 3\u20137 days to <20 minutes; system auditable end-to-end.\nEnterprise Contract Intelligence & RAG Platform\n\u25cf\u200b\nBuilt CrewAI-based multi-agent system (Writer, Analyst, Compliance, Risk) on ",
+    "markdown_text": "WORK EXPERIENCE\n\nData & AI Engineer | Genpact (Client: GE Vernova) \u200b\nJul 2024 \u2013 Present | Bengaluru\n\u25cf\u200b\nBuilt a LangGraph Agentic Orchestration pipeline(Extraction \u2192 Matching \u2192 Exception Handling) to automate\ninvoice reconciliation against live vendor contracts and compliance documents\n\u25cf\u200b\nEngineered a hybrid RAG stack using FAISS vector store with dense-sparse search and cross-encoder re-ranking\nacross 10,000+ vendor contracts. Choose FAISS for deterministic latency SLAs and cost efficiency (40% savings);\nimproved retrieval precision from 65% \u2192 92% MRR without hallucinated references.\n\u25cf\u200b\nBuilt a 3-layer hybrid validator (Pydantic \u2192 deterministic rules \u2192 LLM) at layer 2 for ~65% of invoices to avoid\nunnecessary LLM calls.\n\u25cf\u200b\nImplemented configurable exception-routing state machine (Approved/Warning/Critical/HITL) with confidence\nscoring, achieving 85% STP. Eliminated 8K+ monthly support tickets..\n\u25cf\u200b\nDeployed RAGAS faithfulness + relevance eval with token/latency dashboards compressed approval cycles\nfrom 3\u20137 days to <20 minutes; system auditable end-to-end.\nEnterprise Contract Intelligence & RAG Platform\n\u25cf\u200b\nBuilt CrewAI-based multi-agent system (Writer, Analyst, Compliance, Risk) on ",
+    "section_title": "WORK EXPERIENCE",
+    "clause_type": null,
+    "page_number": null,
+    "document_type": "invoice",
+    "jurisdiction": null,
+    "effective_date": null,
+    "vendor_name": null,
+    "metadata": {
+      "section_title": "WORK EXPERIENCE",
+      "chunking_strategy": "markdown_section_with_fallback"
+    }
+  },
+  {
+    "chunk_id": "d07f955b-2b68-44b3-ae2b-ddc4b2ad9fed",
+    "doc_id": "4333916a-3535-4bb0-b82c-1d141e000e8d",
+    "chunk_index": 5,
+    "text": "auditable end-to-end.\nEnterprise Contract Intelligence & RAG Platform\n\u25cf\u200b\nBuilt CrewAI-based multi-agent system (Writer, Analyst, Compliance, Risk) on AWS with deterministic orchestration, structured\noutput validation, and guardrails to auto-generate human-reviewable contract drafts while maintaining enterprise-safe response\ngovernance.\n\u25cf\u200b\nEngineered metadata-driven retrieval pipeline combining embeddings, dense-sparse search, and cross-encoder re-ranking\nacross dynamic knowledge bases (policies, SOPs, compliance records); improved grounding accuracy and response relevance\n82% \u2192 94% through context-aware retrieval and query expansion strategies.\n\u25cf\u200b\nImplemented LLMOps observability, metadata tagging, retrieval experimentation, and Streamlit interfaces to optimize RAG\nperformance and streamline low-level contract analysis workflows.\nEnterprise SaaS Governance & AI-Powered Observability Platform\n\u25cf\u200b\nDesigned distributed ETL processing 500k+ records/4hrs across multiple production clusters, fully containerized via Docker and\ndeployed using automated CI/CD pipelines.\n\u25cf\u200b\nAcheived automated license utilization tracking, reduced annual SaaS spend by 40% and eliminated access-related admin\nti",
+    "markdown_text": "auditable end-to-end.\nEnterprise Contract Intelligence & RAG Platform\n\u25cf\u200b\nBuilt CrewAI-based multi-agent system (Writer, Analyst, Compliance, Risk) on AWS with deterministic orchestration, structured\noutput validation, and guardrails to auto-generate human-reviewable contract drafts while maintaining enterprise-safe response\ngovernance.\n\u25cf\u200b\nEngineered metadata-driven retrieval pipeline combining embeddings, dense-sparse search, and cross-encoder re-ranking\nacross dynamic knowledge bases (policies, SOPs, compliance records); improved grounding accuracy and response relevance\n82% \u2192 94% through context-aware retrieval and query expansion strategies.\n\u25cf\u200b\nImplemented LLMOps observability, metadata tagging, retrieval experimentation, and Streamlit interfaces to optimize RAG\nperformance and streamline low-level contract analysis workflows.\nEnterprise SaaS Governance & AI-Powered Observability Platform\n\u25cf\u200b\nDesigned distributed ETL processing 500k+ records/4hrs across multiple production clusters, fully containerized via Docker and\ndeployed using automated CI/CD pipelines.\n\u25cf\u200b\nAcheived automated license utilization tracking, reduced annual SaaS spend by 40% and eliminated access-related admin\nti",
+    "section_title": "WORK EXPERIENCE",
+    "clause_type": null,
+    "page_number": null,
+    "document_type": "invoice",
+    "jurisdiction": null,
+    "effective_date": null,
+    "vendor_name": null,
+    "metadata": {
+      "section_title": "WORK EXPERIENCE",
+      "chunking_strategy": "markdown_section_with_fallback"
+    }
+  },
+  {
+    "chunk_id": "6ec8952e-fa5d-4333-bc7d-581176a5f81a",
+    "doc_id": "4333916a-3535-4bb0-b82c-1d141e000e8d",
+    "chunk_index": 6,
+    "text": "automated CI/CD pipelines.\n\u25cf\u200b\nAcheived automated license utilization tracking, reduced annual SaaS spend by 40% and eliminated access-related admin\ntickets by 70% through resilient data synchronization and automated retry mechanisms.\n\u25cf\u200b\nDeveloped a GenAI-driven log intelligence pipeline leveraging open-source LLMs to convert massive CloudWatch log streams\ninto contextual root-cause reports and stakeholder-ready insights after every run, significantly reducing manual operational\nanalysis beyond conventional regex-based systems.\nSoftware Engineer Specialist | GE India \u200b\nJan 2023 \u2013 Jun 2024 | Bengaluru\nAWS ML Inference & Monitoring Platform\n\u25cf\u200b\nArchitected a centralized AWS-based ML inference infrastructure to consolidate distributed team-specific ML workloads,\nscalable model deployment, orchestration and centralized compliance monitoring across enterprise environments.\n\u25cf\u200b\nDeveloped FastAPI-based inference workflows integrated with AWS API Gateway to standardize model serving, input/output\nvalidation, and API-driven ML execution for multiple business teams on a shared cloud infrastructure.\n\u25cf\u200b\nEstablished centralized MLOps observability and resource utilization tracking, saving annual c",
+    "markdown_text": "automated CI/CD pipelines.\n\u25cf\u200b\nAcheived automated license utilization tracking, reduced annual SaaS spend by 40% and eliminated access-related admin\ntickets by 70% through resilient data synchronization and automated retry mechanisms.\n\u25cf\u200b\nDeveloped a GenAI-driven log intelligence pipeline leveraging open-source LLMs to convert massive CloudWatch log streams\ninto contextual root-cause reports and stakeholder-ready insights after every run, significantly reducing manual operational\nanalysis beyond conventional regex-based systems.\nSoftware Engineer Specialist | GE India \u200b\nJan 2023 \u2013 Jun 2024 | Bengaluru\nAWS ML Inference & Monitoring Platform\n\u25cf\u200b\nArchitected a centralized AWS-based ML inference infrastructure to consolidate distributed team-specific ML workloads,\nscalable model deployment, orchestration and centralized compliance monitoring across enterprise environments.\n\u25cf\u200b\nDeveloped FastAPI-based inference workflows integrated with AWS API Gateway to standardize model serving, input/output\nvalidation, and API-driven ML execution for multiple business teams on a shared cloud infrastructure.\n\u25cf\u200b\nEstablished centralized MLOps observability and resource utilization tracking, saving annual c",
+    "section_title": "WORK EXPERIENCE",
+    "clause_type": null,
+    "page_number": null,
+    "document_type": "invoice",
+    "jurisdiction": "India",
+    "effective_date": null,
+    "vendor_name": null,
+    "metadata": {
+      "section_title": "WORK EXPERIENCE",
+      "chunking_strategy": "markdown_section_with_fallback"
+    }
+  },
+  {
+    "chunk_id": "94b8b6bd-2ecf-4a11-a11c-193491a6fdfb",
+    "doc_id": "4333916a-3535-4bb0-b82c-1d141e000e8d",
+    "chunk_index": 7,
+    "text": "ple business teams on a shared cloud infrastructure.\n\u25cf\u200b\nEstablished centralized MLOps observability and resource utilization tracking, saving annual cloud infrastructure costs by\n~40% and improving overall cloud utilization to ~90% through workload consolidation and optimized compute allocation.\nEnterprise RPA | Cross-System Data Sync Bot\n\u25cf\u200b\nBuilt UiPath automations for complex ETL across CSV/Excel files of 500k+ records and web portals, eliminating 120K+ manual\nwork hours.\nEDUCATION & Certifications\n\u25cf\u200b\nB.Tech,Computer Science & Engineering - Vellore Institute of Technology(CGPA: 8.2/10)\u200b",
+    "markdown_text": "ple business teams on a shared cloud infrastructure.\n\u25cf\u200b\nEstablished centralized MLOps observability and resource utilization tracking, saving annual cloud infrastructure costs by\n~40% and improving overall cloud utilization to ~90% through workload consolidation and optimized compute allocation.\nEnterprise RPA | Cross-System Data Sync Bot\n\u25cf\u200b\nBuilt UiPath automations for complex ETL across CSV/Excel files of 500k+ records and web portals, eliminating 120K+ manual\nwork hours.\nEDUCATION & Certifications\n\u25cf\u200b\nB.Tech,Computer Science & Engineering - Vellore Institute of Technology(CGPA: 8.2/10)\u200b",
+    "section_title": "WORK EXPERIENCE",
+    "clause_type": null,
+    "page_number": null,
+    "document_type": "invoice",
+    "jurisdiction": null,
+    "effective_date": null,
+    "vendor_name": null,
+    "metadata": {
+      "section_title": "WORK EXPERIENCE",
+      "chunking_strategy": "markdown_section_with_fallback"
+    }
+  },
+  {
+    "chunk_id": "b75f9049-bec4-4b21-8e30-ec8d2ec7eb76",
+    "doc_id": "4333916a-3535-4bb0-b82c-1d141e000e8d",
+    "chunk_index": 8,
+    "text": "2019 - 2023\n\n\u25cf\u200b\nCertifications: Advanced Gen AI (Genpact AI Giga Academy) | Azure Fundamentals (AZ-900) | AWS Academy Cloud\nPractitioner",
+    "markdown_text": "2019 - 2023\n\n\u25cf\u200b\nCertifications: Advanced Gen AI (Genpact AI Giga Academy) | Azure Fundamentals (AZ-900) | AWS Academy Cloud\nPractitioner",
+    "section_title": "2019 - 2023",
+    "clause_type": null,
+    "page_number": null,
+    "document_type": "invoice",
+    "jurisdiction": null,
+    "effective_date": null,
+    "vendor_name": null,
+    "metadata": {
+      "section_title": "2019 - 2023",
+      "chunking_strategy": "markdown_section"
+    }
+  }
+]
